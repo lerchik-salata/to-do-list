@@ -1,0 +1,25 @@
+
+.checkbox {
+    margin-right: 20px;
+}
+
+.todo {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 17px 0;
+    list-style: none;
+    border-bottom: 1px solid #6C63FF;
+    max-width: 520px;
+    position: relative;
+    margin: 0 auto;
+    cursor:pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.done {
+    text-decoration: line-through;
+}

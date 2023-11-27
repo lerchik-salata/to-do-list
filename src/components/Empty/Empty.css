@@ -1,0 +1,14 @@
+
+.empty-state {
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.empty-text {
+    color: #252525;
+    font-size: 20px;
+}

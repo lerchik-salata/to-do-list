@@ -1,0 +1,12 @@
+
+.container {
+    max-width: 750px;
+    margin: 40px auto 0 auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
